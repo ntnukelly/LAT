@@ -5,3 +5,4 @@
 # 系級:圖傳系一年級
 # 課程筆記區、作業連結區、專題連結區
 # 作業一連結
+[HW連結](https://github.com/ntnukelly/LAT/blob/main/10%E5%80%8B%E5%95%8F%E9%A1%8C%E7%B5%B1%E6%95%B4.ipynb)
